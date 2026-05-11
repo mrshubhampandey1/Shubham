@@ -1,0 +1,31 @@
+<svg width="100%" viewBox="0 0 690 290" role="img" xmlns="http://www.w3.org/2000/svg" style="">
+  <title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Shubham logo</title>
+  <desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Modern logotype for Shubham with a bold S monogram inside a hexagon and clean wordmark on black background</desc>
+
+  <rect width="680" height="280" fill="#0d0d0d" rx="16" style="fill:rgb(13, 13, 13);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <defs>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#C8A96E"/>
+      <stop offset="100%" style="stop-color:#E8C98A"/>
+    </linearGradient>
+    <linearGradient id="sGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#E8C98A"/>
+      <stop offset="100%" style="stop-color:#C8A96E"/>
+    </linearGradient>
+  <mask id="imagine-text-gaps-ozuk6b" maskUnits="userSpaceOnUse"><rect x="0" y="0" width="690" height="290" fill="white"/><rect x="206" y="78.66667175292969" width="329.7708435058594" height="62.66666793823242" fill="black" rx="2"/></mask></defs>
+
+  <!-- Hexagon badge -->
+  <polygon points="120,80 160,80 180,115 160,150 120,150 100,115" fill="none" stroke="url(#accentGrad)" stroke-width="2.5" style="fill:none;color:rgb(0, 0, 0);stroke-width:2.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <polygon points="120,88 156,88 174,115 156,142 120,142 102,115" fill="none" stroke="url(#accentGrad)" stroke-width="0.8" opacity="0.4" style="fill:none;color:rgb(0, 0, 0);stroke-width:0.8px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.4;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- S inside hexagon -->
+  <path fill="none" stroke="url(#sGrad)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M 127,107&#10;       C 127,98 133,93 141,93&#10;       C 149,93 155,98 155,105&#10;       C 155,112 148,116 140,119&#10;       C 131,122 124,127 125,135&#10;       C 126,142 133,146 141,146&#10;       C 149,146 155,141 154,134" style="fill:none;color:rgb(0, 0, 0);stroke-width:4px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Wordmark -->
+  <text x="210" y="128" font-family="'Helvetica Neue', Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="8" fill="#ffffff" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Helvetica Neue&quot;, Arial, sans-serif;font-size:52px;font-weight:700;text-anchor:start;dominant-baseline:auto">SHUBHAM</text>
+
+  <!-- Separator line -->
+  <line x1="210" y1="138" x2="596" y2="138" stroke="url(#accentGrad)" stroke-width="0.8" opacity="0.5" mask="url(#imagine-text-gaps-ozuk6b)" style="fill:rgb(0, 0, 0);color:rgb(0, 0, 0);stroke-width:0.8px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.5;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+</svg>
