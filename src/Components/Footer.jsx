@@ -28,9 +28,9 @@ function Footer() {
             <BsFillTelephoneInboundFill className="logo" />
           </a>
           <a
-            href="mailto:pandeyshubham182000@gmail.com"
+            href="https://mail.google.com/mail/?view=cm&to=pandeyshubham182000@gmail.com"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="noreferrer"
           >
             <SiGmail className="logo" />
           </a>
