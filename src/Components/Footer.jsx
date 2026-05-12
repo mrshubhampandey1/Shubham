@@ -10,6 +10,14 @@ import climat from "../assets/climat.mp4";
 import { toast } from "react-toastify";
 
 function Footer() {
+  //Checking wether user is using mobile or Desktop
+  //(navigator.userAgent) -> is browser function it returns nature of device
+  //Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) o/p like this
+  const isMobile = /Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
+  const emailLink = isMobile
+    ? "mailto:pandeyshubham182000@gmail.com"
+    : "https://mail.google.com/mail/?view=cm&to=pandeyshubham182000@gmail.com";
+
   return (
     <div className="footerContainer">
       <div className="footersubcontainer footersubcontainerL">
@@ -27,11 +35,8 @@ function Footer() {
           <a href="tel:+917236019575" target="_blank">
             <BsFillTelephoneInboundFill className="logo" />
           </a>
-          <a
-            href="https://mail.google.com/mail/?view=cm&to=pandeyshubham182000@gmail.com"
-            target="_blank"
-            rel="noreferrer"
-          >
+
+          <a href={emailLink} target="_blank" rel="noreferrer">
             <SiGmail className="logo" />
           </a>
           <a href="https://www.linkedin.com/in/mrshubhampandey" target="_blank">
